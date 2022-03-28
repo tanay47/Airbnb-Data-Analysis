@@ -1,2 +1,3 @@
-# Airbnb-Data-Analysis
-Simple EDA on Airbnb Dataset.
+# Airbnb-Data-Analys
+
+For this EDA project we we are going to use “ NYC Airbnb Data Set ”. This data set has around 49,000 observations/listings in it with 16 columns. This data set has a mix between categorical and numeric values. These listings also have various features like listing name, it’s ID, in which neighbourhood it’s located, it’s neighbouring localities, precise geographic location using the listing’s latitude and longitude, what type of room a particular listing is providing, it’s pricing, minimum number of nights accepted, details about the listings reviews and availability throughout the year.
